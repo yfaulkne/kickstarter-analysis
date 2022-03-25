@@ -13,11 +13,11 @@ The purpose of this project was to analyze a group of data containing Kickstarte
 
 ### Analysis of Outcomes Based on Launch Date
 ---
-For this analysis, across all years, May and June appeared to have the most successful Kickstarter campaigns for the theater category respectively. Out of 166 theater Kickstarter campaigns for May, 111 were successful and 52 unsuccessful. Out of 153 theater Kickstarter campaigns for June, 100 were success and 49 unsuccessful. There were only 7 total canceled campaigns in both months.
+For this analysis, across all years, May and June appeared to have the most successful Kickstarter campaigns for the theater category respectively. Out of 166 theater Kickstarter campaigns for May, 111 were successful and 52 unsuccessful. Out of 153 theater Kickstarter campaigns for June, 100 were success and 49 unsuccessful. There were only 7 total canceled campaigns in both months. Image can be found in the Resources folder.
 
 ### Analysis of Outcomes Based on Goals
 ---
-For this analysis, we gathered data based on successful, unsuccessful, and canceled Kickstarter campaigns for plays based on the monetary goal of those campaigns. In the table and line chart provided, the analysis shows that the most successful campaigns were between 0-4999 dollars. There were no canceled play campaigns for any goal amount.
+For this analysis, we gathered data based on successful, unsuccessful, and canceled Kickstarter campaigns for plays based on the monetary goal of those campaigns. In the table and line chart provided, the analysis shows that the most successful campaigns were between 0-4999 dollars. There were no canceled play campaigns for any goal amount. Image can be found in the Resources folder.
 
 ### Challenges and Difficulties Encountered
 ---
